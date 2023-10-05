@@ -1,0 +1,15 @@
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\DogDoorAppChapter3.csproj.AssemblyReference.cache
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\DogDoorAppChapter3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\DogDoorAppChapter3.AssemblyInfoInputs.cache
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\DogDoorAppChapter3.AssemblyInfo.cs
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\DogDoorAppChapter3.csproj.CoreCompileInputs.cache
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\bin\Debug\net6.0\DogDoorAppChapter3.exe
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\bin\Debug\net6.0\DogDoorAppChapter3.deps.json
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\bin\Debug\net6.0\DogDoorAppChapter3.runtimeconfig.json
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\bin\Debug\net6.0\DogDoorAppChapter3.dll
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\bin\Debug\net6.0\DogDoorAppChapter3.pdb
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\DogDoorAppChapter3.dll
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\refint\DogDoorAppChapter3.dll
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\DogDoorAppChapter3.pdb
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\DogDoorAppChapter3.genruntimeconfig.cache
+C:\Users\Adithya AV\source\repos\DogDoorAppChapter3\DogDoorAppChapter3\obj\Debug\net6.0\ref\DogDoorAppChapter3.dll
